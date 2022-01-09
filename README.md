@@ -1,2 +1,2 @@
 # APIARY
-https://rubeschat.docs.apiary.io/#reference
+https://rubeschat.docs.apiary.io/
